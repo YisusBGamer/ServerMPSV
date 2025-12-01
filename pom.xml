@@ -4,7 +4,7 @@
     <version>2.13.1</version>
     <name>mpsv</name>
     <groupId>net.mpsv</groupId>
-    <artifactId>MPSVv214</artifactId>
+    <artifactId>ServerMPSV</artifactId>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
@@ -131,4 +131,5 @@
             <version>15.3</version>
         </dependency>
     </dependencies>
+
 </project>
